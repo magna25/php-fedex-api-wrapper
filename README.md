@@ -1,5 +1,3 @@
-# php-fedex-api-wrapperx
-Fedex API
 # php-fedex-api-wrapper
 This is dead simple Fedex API Wrapper class created for those who wish to integrate automated shipping to their ecommerce website or any project.
 
