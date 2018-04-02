@@ -47,7 +47,7 @@
 		//defaults to "00"
 		$obj->dropOffCode('01');
 		
-		defaults to "00"
+		//defaults to "00"
 		$obj->serviceCode('05');
 		
 		//needed for international shipping
@@ -89,7 +89,7 @@
 		$obj->weight(20);
 		
 		// default: "00" if different than default, you don't need to specify w*l*h
-		//$obj->packagingCode('01');
+		$obj->packagingCode('01');
 		
 		$obj->width(10);
 		$obj->height(10);
